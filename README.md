@@ -4,6 +4,15 @@
 </div>
 
 ---
+## Contribution in 2025
+<iframe
+  src="https://git-skyline.huakun.tech/contribution/github/tamioEcoligo/embed?year=2025&enableZoom=true"
+  width="100%"
+  height="100%"
+  frameborder="0"
+></iframe>
+
+---
 <img width="2028" height="1449" alt="image" src="https://github.com/user-attachments/assets/0843c919-3bfb-4eb5-b2d4-6928629e2d0b" />
 
 ---
