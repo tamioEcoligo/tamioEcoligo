@@ -30,10 +30,12 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_charts: yes
           plugin_habits_trim: yes
+          plugin_habits_from: all
 
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_threshold: C
+          plugin_achievements_ignore: projects
 
           config_timezone: Asia/Ho_Chi_Minh
           filename: metrics.svg
