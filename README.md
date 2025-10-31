@@ -4,6 +4,8 @@
 </div>
 
 ---
+<img width="2028" height="1449" alt="image" src="https://github.com/user-attachments/assets/0843c919-3bfb-4eb5-b2d4-6928629e2d0b" />
 
+---
 ![Metrics](./github-metrics.svg)
 
