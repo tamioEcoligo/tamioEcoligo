@@ -1,5 +1,5 @@
 ### 🧩 My GitHub Metrics
-![Phat's GitHub stats](https://github-readme-stats-orcin-seven-45.vercel.app/api?username=tamioEcoligo&show_icons=true&hide=stars,issues&theme=highcontrast&include_all_commits=true)
+![Phat's GitHub stats](https://github-readme-stats-orcin-seven-45.vercel.app/api?username=tamioEcoligo&show_icons=true&hide=stars,issues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats-orcin-seven-45.vercel.app/api/top-langs/?username=tamioEcoligo)
 
