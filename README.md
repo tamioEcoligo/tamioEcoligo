@@ -3,7 +3,7 @@
 
 [![Top Languages](https://github-readme-stats-orcin-seven-45.vercel.app/api/top-langs/?username=tamioEcoligo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tamioEcoligo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tamioEcoligo)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Metrics](./github-metrics.svg)
 
